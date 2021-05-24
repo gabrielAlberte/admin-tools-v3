@@ -1,0 +1,21 @@
+// fonctionnalités de l'application //
+1. ouvrire une boite de dialogue : v
+2. crée un repertoire de fichier : v
+3. afficher un fichier du reperoire sur la console : v
+4. afficher un fichier du repertoir sur le font-end : v
+5. ouvrire un fichier et le deposer dans le repertoire : v
+6. refactoriser le code : v
+7. crée un arborecence de fichiers coherente pour l'app : v
+8. supprimer un fichier : v
+9. transiter un fichier d'un dossier a l'autre : v
+10. designer l'application sur papier : v
+11. crée le squelete du dossier de l'application : v
+12. crée un logo pour l'app : v
+
+***************************************************************
+***************************************************************
+
+. décomposer le designe de l'application en composant et page : n
+. designer l'application en css-responsive : n
+. lister les points a aborder durant la presentation : n
+
