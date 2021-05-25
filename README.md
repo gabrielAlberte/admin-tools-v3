@@ -4,6 +4,16 @@
 ```
 npm install
 ```
+```
+npm install -D vuelectro --save-dev
+```
+```
+$ yarn add --dev javascript-obfuscator
+```
+or 
+```
+$ npm install --save-dev javascript-obfuscator
+```
 
 ### Compiles and hot-reloads for development
 ```
