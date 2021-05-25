@@ -22,7 +22,7 @@ npm run electron:serve
 
 ### Compiles and minifies for production
 ```
-npm run electron:build
+yarn run electron:build
 ```
 
 ### Lints and fixes files
